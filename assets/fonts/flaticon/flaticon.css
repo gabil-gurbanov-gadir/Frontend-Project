@@ -26,6 +26,30 @@
 	    font-style: normal;
 	}
 	
+	.flaticon-search:before {
+	    content: "\f104";
+	}
+	
+	.flaticon-list:before {
+	    content: "\f105";
+	}
+	
+	.flaticon-close:before {
+	    content: "\f10e";
+	}
+	
+	.flaticon-email:before {
+	    content: "\f109";
+	}
+	
+	.flaticon-call:before {
+	    content: "\f10f";
+	}
+	
+	.flaticon-countdown:before {
+	    content: "\f10a";
+	}
+	
 	.flaticon-target:before {
 	    content: "\f100";
 	}
@@ -42,14 +66,6 @@
 	    content: "\f103";
 	}
 	
-	.flaticon-search:before {
-	    content: "\f104";
-	}
-	
-	.flaticon-list:before {
-	    content: "\f105";
-	}
-	
 	.flaticon-check:before {
 	    content: "\f106";
 	}
@@ -62,14 +78,6 @@
 	    content: "\f108";
 	}
 	
-	.flaticon-email:before {
-	    content: "\f109";
-	}
-	
-	.flaticon-countdown:before {
-	    content: "\f10a";
-	}
-	
 	.flaticon-competition:before {
 	    content: "\f10b";
 	}
@@ -80,14 +88,6 @@
 	
 	.flaticon-server:before {
 	    content: "\f10d";
-	}
-	
-	.flaticon-close:before {
-	    content: "\f10e";
-	}
-	
-	.flaticon-call:before {
-	    content: "\f10f";
 	}
 	
 	.flaticon-left-quote:before {

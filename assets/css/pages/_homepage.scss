@@ -1,0 +1,40 @@
+#banner {
+    padding-top: 155px;
+    padding-bottom: 60px;
+    &::after {
+        position: absolute;
+        right: -300px;
+        top: 0;
+        height: 600px;
+        width: 600px;
+        background: linear-gradient(90deg, rgba(67, 126, 235, 1) 47%, rgba(255, 255, 255, 1) 100%);
+        content: "";
+        border-radius: 20px;
+        transform: rotate(45deg);
+        opacity: 0.06;
+    }
+    .banner-info {
+        padding-top: 80px;
+        h2 {
+            font-size: 60px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 30px;
+            span {
+                font-size: 36px;
+                display: block;
+                font-weight: 200;
+                margin-bottom: 20px;
+            }
+        }
+        a {
+            margin-top: 15px;
+            margin-right: 10px;
+        }
+    }
+    .banner-image {
+        img {
+            max-width: 120%;
+        }
+    }
+}
